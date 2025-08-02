@@ -1,0 +1,21 @@
+# Obsidian関連のファイル
+.obsidian/
+*.tmp
+
+# システムファイル
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 一時ファイル
+~$*
+*.swp
+*.swo
+*~
+
+# ログファイル
+*.log
+
+# バックアップファイル
+*.bak
+*.backup
