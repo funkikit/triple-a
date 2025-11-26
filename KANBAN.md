@@ -10,6 +10,7 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] システム化
 - [ ] 脚本prototype
 - [ ] キャラデザprototype
 - [ ] 背景prototype
@@ -18,6 +19,7 @@ kanban-plugin: board
 
 ## Doing
 
+- [ ] はなぶささんの原画、アニメコピー
 
 
 ## Done
